@@ -1,0 +1,8 @@
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ProjektarbeteRobinAlex\bin\Debug\ProjektarbeteRobinAlex.exe.config
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ProjektarbeteRobinAlex\bin\Debug\ProjektarbeteRobinAlex.exe
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ProjektarbeteRobinAlex\bin\Debug\ProjektarbeteRobinAlex.pdb
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ProjektarbeteRobinAlex\obj\Debug\ProjektarbeteRobinAlex.csprojResolveAssemblyReference.cache
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ProjektarbeteRobinAlex\obj\Debug\ProjektarbeteRobinAlex.exe
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ProjektarbeteRobinAlex\obj\Debug\ProjektarbeteRobinAlex.pdb
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ProjektarbeteRobinAlex\bin\Debug\CocaColaLib.dll
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ProjektarbeteRobinAlex\bin\Debug\CocaColaLib.pdb

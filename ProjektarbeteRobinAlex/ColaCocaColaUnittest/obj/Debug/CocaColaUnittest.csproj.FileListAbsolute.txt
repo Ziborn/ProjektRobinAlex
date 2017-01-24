@@ -1,0 +1,8 @@
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ColaCocaColaUnittest\obj\Debug\CocaColaUnittest.csprojResolveAssemblyReference.cache
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ColaCocaColaUnittest\bin\Debug\ColaCocaColaUnittest.dll
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ColaCocaColaUnittest\bin\Debug\ColaCocaColaUnittest.pdb
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ColaCocaColaUnittest\bin\Debug\CocaColaLib.dll
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ColaCocaColaUnittest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ColaCocaColaUnittest\bin\Debug\CocaColaLib.pdb
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ColaCocaColaUnittest\obj\Debug\ColaCocaColaUnittest.dll
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\ColaCocaColaUnittest\obj\Debug\ColaCocaColaUnittest.pdb

@@ -1,0 +1,5 @@
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\CocaColaLib\bin\Debug\CocaColaLib.dll
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\CocaColaLib\bin\Debug\CocaColaLib.pdb
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\CocaColaLib\obj\Debug\CocaColaLib.csprojResolveAssemblyReference.cache
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\CocaColaLib\obj\Debug\CocaColaLib.dll
+c:\users\anders\documents\visual studio 2015\Projects\ProjektTestning\ProjektarbeteRobinAlex\CocaColaLib\obj\Debug\CocaColaLib.pdb
